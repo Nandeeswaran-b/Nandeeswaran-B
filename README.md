@@ -14,7 +14,7 @@
 <a href="https://nandeeswaran-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-203A43?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:nandeeswaran033@gmail.com"><img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Nandeeswaran-b&label=Profile%20Views&color=2C5364&style=for-the-badge" alt="profile views"/>
+<img src="https://readme-svg-typing-generator.vercel.app/api?lines=Nandeeswaran+B&animation=rainbow&center=true&size=30&font=Poppins&width=400&height=50" alt="name banner"/>
 
 </div>
 
