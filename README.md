@@ -1,159 +1,114 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Nandeeswaran B</h1>
+<h3 align="center">Aspiring Data Scientist | Machine Learning & AI Enthusiast</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Nandeeswaran%20B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20Machine%20Learning%20%26%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=900&color=2C5364&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Data+Analyst;Machine+Learning+Engineer;Predictive+Modeling+%26+Statistical+Analysis;Turning+Data+Into+Decisions" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/bnandeeswaran" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Nandeeswaran-b" target="_blank"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Nandeeswarn_45/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-2C5364?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://nandeeswaran-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-203A43?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:nandeeswaran033@gmail.com"><img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<img src="https://readme-svg-typing-generator.vercel.app/api?lines=Nandeeswaran+B&animation=rainbow&center=true&size=30&font=Poppins&width=400&height=50" alt="name banner"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/bnandeeswaran" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Nandeeswaran-b" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Nandeeswarn_45/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://nandeeswaran-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:nandeeswaran033@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🎓 B.Tech in **Artificial Intelligence and Data Science**, SNS College of Engineering *(2024 – 2028)*
-- 🔍 Currently exploring **Machine Learning, Predictive Modeling, Statistical Analysis & Data Visualization**
+- 🎓 B.Tech in **Artificial Intelligence and Data Science**, SNS College of Engineering (2024 – 2028)
+- 🔍 Currently exploring **Machine Learning, Predictive Modeling, Statistical Analysis, and Data Visualization**
 - 💼 Hands-on internship experience as an **ML Intern** and **Data Scientist Intern**
 - 🧠 Built and deployed multiple **end-to-end ML & Analytics projects** as live web applications
-- 📊 Solved **412+ problems on LeetCode**, strengthening DSA & problem-solving
+- 📊 Solved **412+ problems on LeetCode**, strengthening DSA and problem-solving skills
 - 📍 Based in Dindigul, Tamil Nadu, India
-- 🎯 Targeting roles: **Data Scientist &nbsp;|&nbsp; Data Analyst &nbsp;|&nbsp; ML Engineer &nbsp;|&nbsp; AI Engineer**
+- 🎯 Targeting roles: **Data Scientist | Data Analyst | Machine Learning Engineer | AI Engineer**
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
+### 🛠️ Tech Stack
 
 **Languages & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
-
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 **Machine Learning & Data Analysis**
-<br/>
-![NumPy](https://img.shields.io/badge/NumPy-2C5364?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-203A43?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-0F2027?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-2C5364?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-203A43?style=for-the-badge)
-
-<br/>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
 
 **BI & Visualization**
-<br/>
-![Power BI](https://img.shields.io/badge/Power%20BI-0F2027?style=for-the-badge&logo=powerbi&logoColor=white)
-
-<br/>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **Web & Deployment**
-<br/>
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,vercel&theme=dark" />
-
-<br/>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,colab&theme=dark" />
-
-</div>
-
----
-
-## 💼 Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Data Scientist Intern
-**Tamil Infotech** &nbsp;*(Jun 2026 – Jul 2026)*
-- Built a **Customer Churn Prediction** model (Logistic Regression & Random Forest) — **85% accuracy**
-- Applied EDA, Feature Engineering, and resolved class imbalance using **SMOTE**
-- Evaluated using ROC-AUC, Precision, Recall & F1-Score
-
-</td>
-<td width="50%" valign="top">
-
-### Machine Learning Intern
-**DeepByte Verxe** &nbsp;*(Dec 2025 – Jan 2026)*
-- Built an interactive **Sales Dashboard** with Python, Pandas & Power BI
-- Automated recurring report generation, boosting workflow efficiency
-
-</td>
-</tr>
-</table>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 ---
 
-## 📌 Pinned Projects
+### 💼 Experience
 
-<div align="center">
+**Data Scientist Intern** — Tamil Infotech *(Jun 2026 – Jul 2026)*
+- Developed a Customer Churn Prediction model (Logistic Regression & Random Forest) achieving **85% accuracy**
+- Applied EDA, Feature Engineering, and handled class imbalance using **SMOTE**
+- Evaluated models using ROC-AUC, Precision, Recall, and F1-Score
 
-| Project | Description | Tech Stack | Demo |
-|:---|:---|:---|:---:|
-| **Customer Churn Prediction** | ML classification pipeline — 85% accuracy, deployed live | `Python` `Pandas` `Scikit-learn` `Matplotlib` | [View](https://customer-churn-prediction-sooty.vercel.app) |
-| **Loan Approval Prediction** | Predicts loan approval from applicant financial/demographic data | `Python` `Pandas` `Scikit-learn` `Seaborn` | [View](https://loan-approval-prediction.onrender.com) |
-| **Sales Dashboard** | Interactive BI dashboard for sales analytics & KPI monitoring | `Power BI` `Python` `Pandas` | [View](https://sales-henna-beta.vercel.app) |
-| **Personal Portfolio Website** | Premium portfolio showcasing projects & certifications | `Next.js` `TypeScript` `Tailwind CSS` | [View](https://nandeeswaran-portfolio.vercel.app) |
-
-</div>
+**Machine Learning Intern** — DeepByte Verxe *(Dec 2025 – Jan 2026)*
+- Built an interactive **Sales Dashboard** with Python, Pandas & Power BI to track revenue and KPIs
+- Automated recurring report generation, improving workflow efficiency
 
 ---
 
-## 🏆 Certifications
+### 📌 Pinned Projects
 
-![Oracle](https://img.shields.io/badge/Oracle%20AI%20Foundations%20Associate-0F2027?style=for-the-badge&logo=oracle&logoColor=white)
-![IBM](https://img.shields.io/badge/AI%20Fundamentals-203A43?style=for-the-badge&logo=ibm&logoColor=white)
-![Simplilearn](https://img.shields.io/badge/Power%20BI%20for%20Beginners-2C5364?style=for-the-badge&logo=powerbi&logoColor=white)
-![Infosys](https://img.shields.io/badge/Microsoft%20Excel-0F2027?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+| Project | Description | Tech Stack | Live Demo |
+|---|---|---|---|
+| 🔹 **Customer Churn Prediction** | ML classification pipeline predicting customer churn — 85% accuracy, deployed live | Python, Pandas, Scikit-learn, Matplotlib | [View](https://customer-churn-prediction-sooty.vercel.app) |
+| 🔹 **Loan Approval Prediction** | Predictive model classifying loan approval status from applicant data | Python, Pandas, Scikit-learn, Seaborn | [View](https://loan-approval-prediction.onrender.com) |
+| 🔹 **Sales Dashboard** | Interactive BI dashboard for sales analytics & KPI monitoring | Power BI, Python, Pandas | [View](https://sales-henna-beta.vercel.app) |
+| 🔹 **Personal Portfolio Website** | Premium portfolio site showcasing projects & certifications | Next.js, TypeScript, Tailwind CSS | [View](https://nandeeswaran-portfolio.vercel.app) |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nandeeswaran-b&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0F2027&title_color=2C5364&icon_color=2C5364&text_color=ffffff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandeeswaran-b&theme=tokyonight&hide_border=true&background=0F2027&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandeeswaran-b&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=2C5364&text_color=ffffff" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandeeswaran-b&theme=minimal&hide_border=true&bg_color=0F2027&color=2C5364&line=2C5364&point=ffffff" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/Nandeeswarn_45?theme=dark&font=Poppins&ext=heatmap" height="200"/>
-</div>
+> 🔗 Links point to your live deployed demos — keep them active for recruiters.
 
 ---
 
-## 📫 Connect With Me
+### 🏆 Certifications
 
-<div align="center">
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate — Oracle University
+- AI Fundamentals — IBM
+- Power BI for Beginners — Simplilearn (Microsoft Partner)
+- Microsoft Excel — Infosys Springboard
 
-📧 **nandeeswaran033@gmail.com** &nbsp;|&nbsp; 📱 **+91 8807982288**
+---
 
-<a href="https://www.linkedin.com/in/bnandeeswaran" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://nandeeswaran-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-203A43?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Nandeeswarn_45/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-2C5364?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+### 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandeeswaran-b&show_icons=true&theme=default&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandeeswaran-b&theme=default" height="165"/>
+</p>
 
-<p align="center"><i>Open to Data Scientist, Data Analyst, ML Engineer, and AI Engineer opportunities</i></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandeeswaran-b&layout=compact&theme=default" height="165"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
+---
+
+### 📫 Connect With Me
+
+- 📧 **Email:** nandeeswaran033@gmail.com
+- 📱 **Phone:** +91 8807982288
+- 💼 **LinkedIn:** [linkedin.com/in/bnandeeswaran](https://www.linkedin.com/in/bnandeeswaran)
+- 🌐 **Portfolio:** [nandeeswaran-portfolio.vercel.app](https://nandeeswaran-portfolio.vercel.app)
+- 💻 **LeetCode:** [leetcode.com/u/Nandeeswarn_45](https://leetcode.com/u/Nandeeswarn_45/)
+
+<p align="center"><i>Open to Data Scientist, Data Analyst, ML Engineer, and AI Engineer opportunities.</i></p>
